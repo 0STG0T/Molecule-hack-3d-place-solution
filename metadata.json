@@ -1,0 +1,4 @@
+{
+    "image": "0stg0t/sexy:14",
+    "entry_point": "python3 -u run.py"
+}
